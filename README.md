@@ -5,4 +5,4 @@
 <p align="justify">A detailed analysis of the measured absenteeism data for employees in a forensic science laboratory (FSL) is presented. About 134 employees out of 172 were used as a sample. The factors assumed to affect absenteeism included differences in gender, departments/units, period of the year, skill-levels and professions.</p>
 
 
-<a href="https://github.com/Tuurash/AbsenteeismAnalysis/blob/master/Knowledge.pdf" target="_blank">click here to see full acknowledgement.</a> <embed src="https://github.com/Tuurash/AbsenteeismAnalysis/blob/master/Knowledge.pdf" width="1000px" height="800px" />
+<a href="https://github.com/Tuurash/AbsenteeismAnalysis/blob/master/Knowledge.pdf" target="_blank">click here to see full acknowledgement.</a> <embed src="/blob/master/Knowledge.pdf" width="1000px" height="800px" />
